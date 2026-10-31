@@ -1,4 +1,4 @@
-
+i love ganondorf & bsc heh wip.
 
 
 
