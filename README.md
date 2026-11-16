@@ -1,1 +1,1 @@
-<div align="center"> <a href="https://hits.sh/github.com/gutshackled/"><img alt="Hits" src="https://hits.sh/github.com/gutshackled.svg?label=%E2%9C%B0&color=ffffff&labelColor=f7e096"/></a> </div>
+<div align="center"> <a href="https://hits.sh/github.com/gutshackled/"><img alt="Hits" src="https://hits.sh/github.com/gutshackled.svg?label=%E2%9C%B0&extraCount=1000&color=ffffff&labelColor=f7e096"/</a> </div>
